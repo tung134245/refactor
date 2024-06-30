@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # How-to Guide
 
 ## Smoke test our image locally
@@ -73,6 +72,3 @@ Verify all of your YAML files by running the following command:
   ```shell
   yamllint .
   ```
-=======
-# refactor
->>>>>>> main
