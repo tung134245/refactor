@@ -161,3 +161,4 @@ cython_debug/
 
 # Don't push ansible secrets
 local/ansible/secrets/
+iac/ansible/secrets/*.json
