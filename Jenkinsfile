@@ -12,7 +12,7 @@ pipeline {
                 kubernetes {
                     containerTemplate {
                         name 'helm' // Name of the container to be used for helm upgrade
-                        image 'quandvrobusto/jenkins:lts-jdk17' // The image containing helm
+                        image 'bui134245619/jenkins:lts-jdk17' // The image containing helm
                         alwaysPullImage true // Always pull image in case of using the same tag
                     }
                 }
